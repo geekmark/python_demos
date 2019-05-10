@@ -5,6 +5,8 @@ def parrot(voltage, state='a stiff',action='voom',type='Norwegian Blue'):
     print("Lovely plumage, the",type)
     print("It's",state,"!")
 
+
+#mark test 1
 print('================================================')
 parrot(1000)
 print('================================================')
